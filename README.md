@@ -9,7 +9,7 @@ Transforme seus arquivos Word em PDF com uma interface simples e direta.
 
 Este projeto converte documentos do Microsoft Word (como `.docx`) para o formato PDF. É ideal para quem precisa automatizar a transformação de documentos editáveis em arquivos estáticos para distribuição ou arquivamento.
 
-Atualmente, o repositório contém um arquivo principal: `WordToPDF.py`. :contentReference[oaicite:0]{index=0}
+Atualmente, o repositório contém um arquivo principal: `WordToPDF.py`.
 
 ---
 
